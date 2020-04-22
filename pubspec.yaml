@@ -1,7 +1,6 @@
 name: greeting
 description: A Dart and Flutter package for simple greetings.
 version: 0.0.1
-author: Felipe Augusto de Almeida
 homepage: https://github.com/f2acode/greeting
 
 environment:
